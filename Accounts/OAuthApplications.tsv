@@ -1,0 +1,7 @@
+Id	AccountId	Name	Description	Url	Logo	Icon	ConsumerKey	ConsumerSecret	AccessToken	AccessTokenSecret	Scopes	CreateAt	Status	
+NumberOfCertifiers
+0	0	AppName000	AppDescription000	https://www.hatena.ne.jp/HatenaId000/	\N	\N	ConsumerKey000	ConsumerSecret000	AccessToken000	AccessTokenSecret000	read_public,write_public,read_private,write_private	2000/01/01 00:00:00	1	1
+1	0	AppName001	Scope=read_public	https://www.hatena.ne.jp/HatenaId000/	\N	\N	ConsumerKey001	ConsumerSecret001	AccessToken001	AccessTokenSecret001	read_public	2000/01/01 00:00:00	1	1
+2	0	AppName002	Scope=read_public,write_public	https://www.hatena.ne.jp/HatenaId000/	\N	\N	ConsumerKey002	ConsumerSecret002	AccessToken002	AccessTokenSecret002	read_public,write_public	2000/01/01 00:00:00	1	1
+3	0	AppName003	Status=0	https://www.hatena.ne.jp/HatenaId000/	\N	\N	ConsumerKey003	ConsumerSecret003	AccessToken003	AccessTokenSecret003	read_public,write_public	2000/01/01 00:00:00	0	1
+
